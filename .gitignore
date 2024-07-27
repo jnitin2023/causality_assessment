@@ -5,8 +5,9 @@ __pycache__/
 # Ignore environment files
 .env
 .venv/
+env/
 
-.pkl
+*.pkl
 fine_tuned_model/
 results/
 results_llm/
