@@ -6,6 +6,11 @@ __pycache__/
 .env
 .venv/
 
+.pkl
+fine_tuned_model/
+results/
+results_llm/
+
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
